@@ -22,6 +22,3 @@
 [<img align="left" alt="Looker Studio" width="30px" src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />]
 [<img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Oracle VM" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" style="padding-right:10px;" />]
-
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
